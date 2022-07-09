@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aabbhishek" alt="aabbhishek" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://aabbhishek.github.io/Abhishek/](https://aabbhishek.github.io/Abhishek/)
+- 👨‍💻 Projecs I have worked on [https://aabbhishek.github.io/Abhishek/](https://aabbhishek.github.io/Abhishek/)
 
 - 📫 How to reach me **kumarabhishek.kumar97@gmail.com**
 
